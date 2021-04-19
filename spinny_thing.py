@@ -8,7 +8,6 @@ click.clear()
 try:
     while True:
         for part in ["|", "/", "-", "\\"]:
-        # for part in spinny_parts:
             print(f"Ctrl-C to end the spinning.  :)\n\n {part}\n")
             click.clear()
             time.sleep(0.1)
