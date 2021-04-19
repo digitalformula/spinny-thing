@@ -3,8 +3,6 @@
 import time
 import click
 
-spinny_parts = ["|", "/", "-", "\\"]
-
 click.clear()
 
 try:
