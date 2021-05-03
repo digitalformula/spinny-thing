@@ -29,3 +29,7 @@ Does nothing at all except draw a spinny thing.
   ```
 
 - Profit
+
+## Demo
+
+![Spin all the things](./demo.gif)
